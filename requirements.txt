@@ -1,0 +1,6 @@
+opencv-python
+Pillow
+tensorflow==2.6
+imgaug
+matplotlib
+jupyter-notebook
